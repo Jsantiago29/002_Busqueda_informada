@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  9 14:00:04 2023
-
-@author: Alberto Aguiar
-"""
-
 import random
 
 # Parámetros del algoritmo genético

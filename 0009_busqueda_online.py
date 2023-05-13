@@ -1,4 +1,3 @@
-# Areli Sarai García Medina
 # Grafos - Búsqueda Online
 
 from queue import Queue
